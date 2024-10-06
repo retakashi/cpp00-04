@@ -7,6 +7,7 @@ This is a C++ project for 42, focusing on practicing the skills necessary to und
 macOS
 
 ## Usage
+``` bash
 git clone ...
 
 cd cpp-0*
@@ -14,6 +15,8 @@ cd cpp-0*
 cd ex0*
 
 make
+```
+
 ## Features
 
 ### cpp-00
