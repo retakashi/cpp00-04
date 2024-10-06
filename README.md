@@ -9,11 +9,8 @@ macOS
 ## Usage
 ``` bash
 git clone ...
-
 cd cpp-0*
-
 cd ex0*
-
 make
 ```
 
