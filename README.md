@@ -2,6 +2,7 @@
 
 ## Overview
 This is a C++ project for 42, focusing on practicing the skills necessary to understand C++.
+Using C++98.
 
 ## Requirement
 macOS
