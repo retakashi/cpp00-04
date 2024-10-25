@@ -2,10 +2,11 @@
 
 ## Overview
 This is a C++ project for 42, focusing on practicing the skills necessary to understand C++.
-Using C++98.
 
-## Requirement
-macOS
+## Implementation Environment
+- **Programming Language**: C++98
+- **Operating Systems**: macOS
+- **Compiler**: Apple Clang 15.0.0 (clang-1500.3.9.4), Target: arm64-apple-darwin23.6.0
 
 ## Usage
 ``` bash
